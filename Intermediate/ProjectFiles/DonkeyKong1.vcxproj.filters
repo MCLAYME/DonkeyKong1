@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DonkeyKong1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{86AED8AE-A798-47F8-9A1E-BCF41E1CC839}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DonkeyKong1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DonkeyKong1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E2599AC2-E37F-406A-9CD7-440E5D558F59}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DonkeyKong1">
+      <UniqueIdentifier>{404F9B4C-C3DE-4D2E-885D-8BBD3DE7CFE9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DonkeyKong1\DonkeyKong1.Build.cs">
+      <Filter>Source\DonkeyKong1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DonkeyKong1\DonkeyKong1.cpp">
+      <Filter>Source\DonkeyKong1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong1\DonkeyKong1.h">
+      <Filter>Source\DonkeyKong1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong1\DonkeyKong1Character.cpp">
+      <Filter>Source\DonkeyKong1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong1\DonkeyKong1Character.h">
+      <Filter>Source\DonkeyKong1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong1\DonkeyKong1GameMode.cpp">
+      <Filter>Source\DonkeyKong1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong1\DonkeyKong1GameMode.h">
+      <Filter>Source\DonkeyKong1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

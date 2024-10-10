@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong1",
+			"Path": "C:\\Users\\layme\\Documents\\Unreal Projects\\DonkeyKong1\\Source\\DonkeyKong1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong1Editor",
+			"Path": "C:\\Users\\layme\\Documents\\Unreal Projects\\DonkeyKong1\\Source\\DonkeyKong1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

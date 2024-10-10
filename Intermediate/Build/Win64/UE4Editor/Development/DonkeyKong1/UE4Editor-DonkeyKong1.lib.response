@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\DonkeyKong1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\DonkeyKong1.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\DonkeyKong1Character.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\DonkeyKong1GameMode.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\DonkeyKong1.init.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\DonkeyKong1Character.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\DonkeyKong1GameMode.gen.cpp.obj"
+"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\Default.rc2.res"
+/OUT:"C:\Users\layme\Documents\Unreal Projects\DonkeyKong1\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong1\UE4Editor-DonkeyKong1.lib"
